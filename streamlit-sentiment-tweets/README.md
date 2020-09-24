@@ -1,0 +1,1 @@
+In this web app I have done the visualizations of the tweets done on twitter for various american airlines on the basis of their sentiments.I got a labelled dataset from kaggle for this project.Please do not confuse this with sentiment analysis.In this project I have done only a simple visualization of the tweets.
